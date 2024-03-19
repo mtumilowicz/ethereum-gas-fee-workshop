@@ -46,7 +46,9 @@
 
 ## preface
 * goals of this workshop
-    * understanding
+    * introduction to EMV
+    * understanding gas pricing model
+    * showing standard gas optimisation techniques
 * workshop task
     * improve `Inefficient.sol`
         1. replace `compareStrings` with `keccak256`
